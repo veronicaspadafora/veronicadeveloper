@@ -1,0 +1,136 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.containerTop{
+    background-color: #FFF2CC;
+    padding-top: 100px;
+}
+.nuvolaSuperiore{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+    margin-top: 50px;
+}
+.nuvolaInferiore{
+    position: absolute;
+   
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    margin: 100px auto 0 auto;
+    color: #DFA67B;
+}
+
+.profile{
+    padding-bottom: 50px;
+}
+.skills{
+    padding-top: 50px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #DFA67B;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.intro{
+    width: 40%;
+    margin: auto;
+}
+
+.lamiafoto{
+    height: 200px;
+    border-radius: 100%;
+}
+
+.computer{
+    width: 200px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.pepper{
+    height: 150px;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me {
+    width: 50%;
+    margin:100px auto 100px auto;
+    
+}
+
+hr{
+   border: dotted grey 7px;
+   border-bottom: none;
+   width: 4%;
+}
+
+.titolo{
+    font-size: 35px;
+    color: #DFA67B;
+}
+
+.myButton {
+	box-shadow: -1px 11px 19px -8px #0f070e;
+	background:linear-gradient(to bottom, #fadcf6 5%, #ff4564 100%);
+	background-color:#fadcf6;
+	border-radius:17px;
+	display:inline-block;
+	cursor:pointer;
+	color:#faedfa;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:13px 21px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #1a0617;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ff4564 5%, #fadcf6 100%);
+	background-color:#ff4564;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+footer{
+    background-color:#DFA67B;
+    padding: 40px;
+}
+a{
+    font-family:'Montserrat', sans-serif ;
+    color: #FFF2CC;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #FFD966;
+}
+
+.copyright{
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
